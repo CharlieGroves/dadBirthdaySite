@@ -1,0 +1,37 @@
+html {
+    overflow-y: auto;
+}
+
+.body{
+    background-image: url("black.png");
+    background-color: #cccccc;
+    background-size: 800px 450px;
+    font-family: 'Roboto';
+    margin: 0;
+    width: 99.8559%;
+    overflow-y: auto;
+}
+
+.headerOne{
+    font-family: 'Roboto';
+    padding-top: 50px;
+    padding-bottom: 40px;
+    padding: 30px 1px 20px 1px;
+    text-align: center;
+    background: #8860d0;
+    color: white;
+    font-size: 30px;
+    width: 100%;
+    left: 0px;
+}
+
+.top{
+    padding: 20px 1px 20px 1px;
+    text-align: center;
+    align-self: center;
+    background: #fe9055;
+    color: white;
+    font-size: 20px;
+    width: 100%;
+    font-family: 'Roboto';
+}

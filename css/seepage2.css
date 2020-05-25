@@ -1,0 +1,17 @@
+.justBG{
+    background-color: #8860d0;
+    color: white;
+    padding: 16px 10px 48px 10px;
+    font-size: 16px;
+    border: none;
+    text-align: center;
+    font-family: 'Roboto';
+    -moz-border-radius: 0px;
+    -webkit-border-radius: 0px;
+    border-radius: 0px;
+    left: 10px;
+}
+
+.BGContainer {
+    left: 10px;
+}

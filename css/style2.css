@@ -1,0 +1,13 @@
+html {
+    overflow-y: auto;
+}
+
+.body{
+    background-image: url("background.png");
+    background-color: #cccccc;
+    background-size: 800px 450px;
+    font-family: 'Roboto';
+    margin: 0;
+    width: 99.8559%;
+    overflow-y: auto;
+}
